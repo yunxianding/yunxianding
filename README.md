@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yunxianding Yunxian Ding
-- 👀 I’m interested in robotics
-- 💞️ In my free time, I enjoy being in the nature
-- 📫 How to reach me: yding41@smith.edu
+- 👀 I’m interested in Engineering, especially about electronics and robotics
+- 📫 Please feel free to reach me through yding41@smith.edu
 
 <!---
 yunxianding/yunxianding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
